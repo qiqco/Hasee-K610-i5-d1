@@ -1,5 +1,7 @@
 # Language:
-[简书](https://github.com/qiqco/Asus-N550JV-i5-4200H/blob/main/README-CN.md)
+
+[中文](https://github.com/qiqco/Asus-N550JV-i5-4200H/blob/main/README-CN.md)
+
 # Configuration：
 CPU|I5 4200H
 :---:|:---:|
